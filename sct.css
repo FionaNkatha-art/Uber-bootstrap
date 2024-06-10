@@ -1,0 +1,22 @@
+body{
+    background-image:url("images/highresolution.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    margin-top: 15%;
+    margin-right: 60%;
+    margin-left: 5%;
+}
+#btn1{
+    margin-left: 25px;
+}
+#btn2{
+    margin-left: 300px;
+}
+#btn3,#btn4,#btn5{
+    margin-left: 55px;
+}
+#btn6{
+    margin-left: 300px;
+}

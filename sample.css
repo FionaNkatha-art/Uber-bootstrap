@@ -1,0 +1,8 @@
+input[type=text],input[type=email],input[type=password],input[tel],input[number]{
+    width:70%;
+    height: 40px;
+    padding-left: 10px;
+}
+label{
+
+}
